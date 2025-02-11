@@ -62,4 +62,3 @@ thefor("i", () => console.log("Running forever..."));
 ## License
 
 This project is licensed under the MIT License.
-
