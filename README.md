@@ -1,6 +1,4 @@
 # thejs
-New JavaScript Libraries
-# theif-thefor
 
 A lightweight JavaScript utility library that provides alternative control flow functions similar to `if-else` and `for` loops.
 
@@ -9,7 +7,7 @@ A lightweight JavaScript utility library that provides alternative control flow 
 You can use this library by importing the functions into your project manually:
 
 ```js
-import { theif, thefor } from "./theif-thefor.js";
+import { theif, thefor } from "./thejs.js";
 ```
 
 ## Functions
