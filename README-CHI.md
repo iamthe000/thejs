@@ -1,3 +1,9 @@
+<details><summary>Language</summary>
+
+🇯🇵[日本語盤README](README-JPN.md)
+🇬🇧[English in README](README.md) <br>
+
+</details>
 # thejs
 
 轻量级 JavaScript 工具库，提供类似 `if-else` 和 `for` 循环的控制流函数，并支持列表管理功能。
