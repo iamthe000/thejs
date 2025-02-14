@@ -1,3 +1,4 @@
+🇬🇧[README in English](README.md)
 # thejs
 
 軽量な JavaScript ユーティリティライブラリで、`if-else` や `for` ループに代わる制御フロー関数、およびリスト管理機能を提供します。
