@@ -1,6 +1,6 @@
 <details><summary>Language</summary>
 
-🇯🇵[日本語版README](README-JPN.md) 
+🇯🇵[日本語版README](README-JPN.md) <br>
 🇨🇳[中文版README](README-CHI.md)
 
 </details>
