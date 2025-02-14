@@ -1,6 +1,6 @@
 <details><summary>Language</summary>
 
-🇬🇧[English in README](README-JPN.md) <br>
+🇬🇧[English in README](README.md) <br>
 🇨🇳[中文版README](README-CHI.md)
 
 </details>
