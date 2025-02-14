@@ -1,4 +1,9 @@
+<details><summary>Language</summary>
+
 🇯🇵[日本語版README](README-JPN.md) 
+🇨🇳[中文版README](README-CHI.md)
+
+</details>
 # thejs
 
 A lightweight JavaScript utility library that provides alternative control flow functions similar to `if-else` and `for` loops, along with list management functions.
