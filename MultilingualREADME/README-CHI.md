@@ -1,7 +1,7 @@
 <details><summary>Language</summary>
 
-🇯🇵[日本語盤README](README-JPN.md)<br>
-🇬🇧[English in README](/README.md)
+- 🇯🇵[日本語盤README](README-JPN.md)<br>
+- 🇬🇧[English in README](/README.md)
 
 </details>
 
