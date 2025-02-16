@@ -1,7 +1,7 @@
 <details><summary>Language</summary>
 
-🇯🇵[日本語版README](MultilingualREADME/README-JPN.md) <br>
-🇨🇳[中文版README](MultilingualREADME/README-CHI.md)
+- 🇯🇵[日本語版README](MultilingualREADME/README-JPN.md) <br>
+- 🇨🇳[中文版README](MultilingualREADME/README-CHI.md)
 
 </details>
 
