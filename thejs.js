@@ -1,4 +1,3 @@
-//現在ではdocument.writeの方式は推奨されないと何処かで聞いた気が、、改善の余地ありかも、、、、
 const storedLists = {};
 
 export function theif(conditions, actions) {
